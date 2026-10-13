@@ -140,7 +140,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: Muhammad Ranju ([@muhammadranju](https://github.com/muhammadranju))
-- **Email**: [mdranju23@gmail.com](mailto:mdranju23@gmail.com)
-- **Issues**: Report bugs or ideas [here](https://github.com/muhammadranju/portfolio-website-prisma/issues)
+- **Author**: Hammad Ur Rehman
+- **Email**: hamad290k@gmail.com
 "# portfolio" 
